@@ -1,4 +1,4 @@
-package tk.mybatis.simple.mapper;
+package tk.mybatis.simple.bean;
 
 import java.util.Date;
 

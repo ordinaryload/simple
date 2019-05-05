@@ -1,4 +1,4 @@
-package tk.mybatis.simple.mapper;
+package tk.mybatis.simple.bean;
 
 public class Country {
     private Integer id;

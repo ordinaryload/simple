@@ -5,10 +5,11 @@
 <configuration>
 <settings>
     <setting name="logImpl"  value="LOG4J"/>
+    <setting name="mapUnderscoreToCamelCase" value="true"/>
 </settings>
 
 <typeAliases>
-    <package name="tk.mybatis.simple.mapper"  />
+    <package name="tk.mybatis.simple"  />
 </typeAliases>
 <environments default="development" >
     <environment id="development" >
